@@ -9,7 +9,7 @@ python Iwannafindall.py
   搜索信息的主程序
 - rule.txt
   用于存放正则规则的文件
-- rest.txt
+- result.txt
   用于存放搜索结果的文件
 - log.log
   用于存放搜索日志的文件
