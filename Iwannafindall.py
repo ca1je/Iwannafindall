@@ -104,7 +104,7 @@ def main():
         print("未加载任何规则，无法进行匹配。")
 
 if __name__ == "__main__":
-    fr = open('rest.txt','w+',encoding='utf-8')
+    fr = open('result.txt','w+',encoding='utf-8')
     flog = open('log.log','a+',encoding = 'utf-8')
     flog.write("---------------------------检查开始于"+str(datetime.now())+"---------------------------\n")
     main()
